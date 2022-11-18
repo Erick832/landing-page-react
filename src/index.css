@@ -300,6 +300,21 @@ footer p {
   color: white;
 }
 
+
+.img-stars {
+  border: 4px solid #7a87ff;
+  width: 550px;
+  height: 100px;
+}
+
+.desc-member {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+}
+
+
+
 @media (max-width: 768px) {
   .nav-link ul {
     flex-direction: column;
