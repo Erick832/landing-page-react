@@ -4,6 +4,7 @@ import imgM from "../images/img-mision.png";
 function SectionObjectives() {
   return (
     <section class="section-objetives">
+      <hr id="id-objetivos" />
       <h2 class="titulo">Objetivos</h2>
       <div class="div-objetives">
         <div class="div-mision">

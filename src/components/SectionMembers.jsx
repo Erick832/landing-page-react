@@ -4,6 +4,7 @@ import img from "../images/img-member.png";
 function SectionMembers() {
   return (
     <section class="section-members">
+      <hr id="id-miembros" />
       <h2 class="titulo">Miembros</h2>
       <div class="div-members">
         <i id="ico-arrow-left" class="fa-solid fa-circle-arrow-left"></i>

@@ -1,8 +1,9 @@
-import React from 'react'
+import React from "react";
 import img from "../images/img-1.jpg";
 function Main() {
   return (
     <main className="main-home">
+      <hr id="id-home" />
       <div className="div-text-home">
         <h1>Bienvenido a la mejor academia virtual</h1>
         <p>
@@ -16,7 +17,7 @@ function Main() {
       </div>
       <img className="img-1" src={img} alt="img" />
     </main>
-  )
+  );
 }
 
-export default Main
+export default Main;

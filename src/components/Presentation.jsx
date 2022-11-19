@@ -3,6 +3,7 @@ import React from "react";
 function Presentation() {
   return (
     <div className="section-pres">
+      <hr id="id-about" />
       <h1>About Product IHC-TF</h1>
       <div className="frame-video">
         <iframe
