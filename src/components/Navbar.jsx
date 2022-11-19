@@ -15,6 +15,9 @@ function Navbar() {
       </button>
       <ul>
         <li>
+          <a href="#id-contactos">About Product</a>
+        </li>
+        <li>
           <a href="#id-objetivos">Objetivos</a>
         </li>
         <li>

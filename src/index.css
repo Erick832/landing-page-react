@@ -299,6 +299,16 @@ footer p {
   font-size: 30px;
   color: white;
 }
+.section-pres {
+  width: 100vw;
+  border-top: 4px solid #7a87ff;
+  border-bottom: 4px solid #7a87ff;
+  background-color: #c8cdff;
+}
+.frame-video {
+  /* margin: 0 auto; */
+  margin-left: 30%;
+}
 
 @media (max-width: 768px) {
   .nav-link ul {
@@ -354,5 +364,12 @@ footer p {
   .div-footer-2 {
     width: 100%;
     padding: 15px 5px;
+  }
+  .frame-video {
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    padding-left: 100px;
+    border: 2px solid red;
   }
 }

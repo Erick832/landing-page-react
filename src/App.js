@@ -5,11 +5,13 @@ import Main from "./components/Main";
 import SectionObjectives from "./components/SectionObjectives";
 import SectionBenefits from "./components/SectionBenefits";
 import SectionMembers from "./components/SectionMembers";
+import Presentation from "./components/Presentation";
 function App() {
   return (
     <div className="App">
       <Header />
       <Main />
+      <Presentation />
       <SectionObjectives />
       <SectionBenefits />
       <SectionMembers />
